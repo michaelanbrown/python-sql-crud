@@ -7,3 +7,5 @@ SELECT DISTINCT name FROM cats;
 SELECT * FROM [table name] WHERE [column name] = [some value];
 
 UPDATE [table name] SET [column name] = [new value] WHERE [column name] = [value];
+
+DELETE FROM [table name] WHERE [column name] = [value];
