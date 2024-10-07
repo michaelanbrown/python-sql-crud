@@ -3,3 +3,5 @@ INSERT INTO cats (name, age, breed) VALUES ('Maru', 3, 'Scottish Fold');
 SELECT [names of columns we are going to select] FROM [table we are selecting from];
 
 SELECT DISTINCT name FROM cats;
+
+SELECT * FROM [table name] WHERE [column name] = [some value];
